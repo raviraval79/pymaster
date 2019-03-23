@@ -26,7 +26,7 @@
 
 def main():
 	print 'welcome to pymaster project'
-	print 'this is my code in firstbranch'
+	print 'this is my code in secondbranch'
 	return 0
 
 if __name__ == '__main__':
