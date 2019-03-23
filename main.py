@@ -26,8 +26,6 @@
 
 def main():
 	print 'welcome to pymaster project'
-	
-	print 'this is a new message added so that it creates new version of main file'
 	return 0
 
 if __name__ == '__main__':
